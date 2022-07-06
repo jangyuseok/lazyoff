@@ -1,2 +1,1 @@
-bpm install
-npm add bootstrap react-bootstrap
+bpm install / npm add bootstrap react-bootstrap
